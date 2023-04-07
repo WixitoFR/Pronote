@@ -1,12 +1,12 @@
 {
-  "name": "fossnote",
+  "name": "Saint-Marc",
   "version": "1.0.0",
-  "description": "A free open source selfhostable PRONOTE.",
+  "description": "PRONOTE le site de la reusite.",
   "main": "./src/app.js",
   "scripts": {
     "start": "node ./src/app.js"
   },
-  "author": "Fufly",
+  "author": "Wixito",
   "license": "ISC",
   "dependencies": {
     "base64-arraybuffer": "^1.0.2",
