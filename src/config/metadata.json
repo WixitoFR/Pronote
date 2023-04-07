@@ -1,8 +1,8 @@
 {
-    "name": "SITE DE DEMONSTRATION test",
-    "title": "SITE DE DEMONSTRATION test - PRONOTE",
-    "description": "PRONOTE Espace Direction - SITE DE DEMONSTRATION test - Marseille - gestion des notes, absences, punitions, cahier de textes pour les établissements scolaires.",
-    "DC_creator": "SITE DE DEMONSTRATION test",
+    "name": "College Saint-Marc",
+    "title": "College Saint-Marc - PRONOTE",
+    "description": "PRONOTE Espace Direction Marseille - gestion des notes, absences, punitions, cahier de textes pour les établissements scolaires.",
+    "DC_creator": "Wixito",
     "DC_publisher": "PRONOTE",
     "Periodes": {
         "p1": {
